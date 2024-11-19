@@ -6,18 +6,11 @@
 | Paragraph | Text |
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "dianarose",
+  "lastName": "fuentes",
+  "age": 22
 }
-```Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+my favorite movie is goblin
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-That is so funny! :joy:
-I need to highlight these ==very important words==.
 
